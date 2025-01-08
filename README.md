@@ -12,14 +12,14 @@
 - No Termux Knowlegde
 
 
-![logo](https://github.com/Xylon-404/ENCODE/blob/main/GIF_20241026_182100_191.gif)
+![logo](CODE-X.png)
 
 #### TOOL 1 VERY DANGER
 ```python
-rm -rf ENCODE
-git clone https://github.com/Xylon-404/ENCODE.git
-cd ENCODE
-python 岽呁⑨磭饾櫜饾殬饾暞饾摦痞.py
+rm -rf CODE-X_TOOL
+https://github.com/Xylon-404/CODE-X_TOOL.git
+cd CODE-X_TOOL
+python3 CODE-X.py
 ```
 
 
