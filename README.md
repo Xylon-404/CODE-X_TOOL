@@ -17,7 +17,7 @@
 #### TOOL 1 VERY DANGER
 ```python
 rm -rf CODE-X_TOOL
-https://github.com/Xylon-404/CODE-X_TOOL.git
+git clone https://github.com/Xylon-404/CODE-X_TOOL.git
 cd CODE-X_TOOL
 python3 CODE-X.py
 ```
