@@ -19,7 +19,13 @@
 rm -rf CODE-X_TOOL
 git clone https://github.com/Xylon-404/CODE-X_TOOL.git
 cd CODE-X_TOOL
+python setup.py
+```
+
+```python
+
 python3 CODE-X.py
+
 ```
 
 
